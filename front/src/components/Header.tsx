@@ -21,7 +21,7 @@ const Header = () => {
                                 <option value="">Stationery & Gifts</option> 
                                 <option value="">Music & Movies</option>
                             </select>
-                            <input className="w-full h-8 p-2" type="text" name="hel" id="" />
+                            <input className="w-full h-8 p-2 outline-none" type="text" name="hel" id="" />
                             <i className="bi bi-search h-8 bg-gray-300 flex justify-center items-center w-1/12"></i>
                         </div>
                     </li>
