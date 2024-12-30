@@ -8,7 +8,7 @@ const Header = () => {
                     <li className="text-3xl stylish-regular">GR Books</li>
                     <li className="w-1/2">
                         <div className="flex ">
-                            <select className="bg-gray-300  h-8" name="" id="">
+                            <select className="bg-gray-300  h-8 outline-none" name="" id="">
                                 <option value="">All</option>
                                 <option value="">Books</option> 
                                 <option value="">Fiction</option> 

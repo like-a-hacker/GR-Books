@@ -2,7 +2,7 @@
 const Footer = () => {
   return (
     <>
-        <div className="bg-green-600 fixed bottom-0 w-full ">
+        <div className="bg-green-600 bottom-0 w-full ">
             <div className="mx-7 px-2 text-xl py-5 border-b">
                 FIND YOUR FUTURE BOOKS AT GR BOOKS <span className="text-sm flex  items-center">Here you can buy your loved books at low price</span>
             </div>
