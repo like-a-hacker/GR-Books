@@ -2,7 +2,7 @@
 const Footer = () => {
   return (
     <>
-        <div className="bg-green-600 bottom-0 w-full ">
+        <div className="bg-green-600 static bottom-0 h-fit w-full">
             <div className="mx-7 px-2 text-xl py-5 border-b">
                 FIND YOUR FUTURE BOOKS AT GR BOOKS <span className="text-sm flex  items-center">Here you can buy your loved books at low price</span>
             </div>
@@ -41,7 +41,10 @@ const Footer = () => {
                   <li>Nonfiction</li> 
                   <li>eBooks</li> 
                   <li>Audiobooks</li> 
-                  <li>Kids</li> 
+                  <li>Kids</li>
+                  <li>Toys & Games</li> 
+                  <li>Stationery & Gifts</li> 
+                  <li>Music & Movies</li> 
                 </ul>
               </div>
               <div className=" w-2/5 font-semibold flex flex-col items-center">

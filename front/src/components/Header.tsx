@@ -9,8 +9,7 @@ const Header = () => {
                     <li className="w-1/2">
                         <div className="flex ">
                             <select className="bg-gray-300  h-8 outline-none" name="" id="">
-                                <option value="">All</option>
-                                <option value="">Books</option> 
+                                <option value="">All</option> 
                                 <option value="">Fiction</option> 
                                 <option value="">Nonfiction</option> 
                                 <option value="">eBooks</option> 

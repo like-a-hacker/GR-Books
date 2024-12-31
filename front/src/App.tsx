@@ -6,9 +6,11 @@ function App() {
 
   return (
     <>
-      <Header/>
-      <Section/>
-      <Footer/>
+      <div className="">
+        <Header/>
+        <Section/>
+        <Footer/>
+      </div>
     </>
   )
 }
